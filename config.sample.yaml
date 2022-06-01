@@ -1,0 +1,10 @@
+gmail:
+  email: your-email@gmail.com
+  # Get an app password here
+  #   Guide - https://devanswers.co/outlook-and-gmail-problem-application-specific-password-required/
+  #   Link - https://security.google.com/settings/security/apppasswords
+  password: your-app-password
+ntc:
+  # I lifted this email from this source:
+  #   Source - https://region1.ntc.gov.ph/wp-content/uploads/2018/01/BLOCKING-OF-LOST-STOLEN-MOBILE-PHONE-UNIT.pdf
+  email: consumer@ntc.gov.ph
