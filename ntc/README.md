@@ -6,6 +6,16 @@ This tool allows you to:
 * answer the NTC form through a more user friendly interface (Jotforms)
 * privately configure an email sending application that sends your complaint to the [NTC](https://ntc.gov.ph/).
 
+## Requirements
+
+1. [Git](https://www.w3schools.com/git/git_intro.asp)
+2. [Golang](https://go.dev/)
+
+### Installation
+
+1. Clone the repository using `git clone https://github.com/darrensapalo/gov`
+2. Change your working directory to the ntc folder `cd ntc`
+
 ## Configuration
 
 1. [Generate an application-specific password for your Gmail](https://devanswers.co/outlook-and-gmail-problem-application-specific-password-required/).
