@@ -2,6 +2,8 @@
 
 Automating this [very tedious process](https://region1.ntc.gov.ph/wp-content/uploads/2018/01/COMPLAINTS-ON-TEXT-MESSAGE-TEXT-SPAMTEXT-SCAM-ILLEGALOBSCENE-TEXT-MESSAGE-THREATS-AND-OTHER-RELATED-ITEMS.pdf) of the National Telecommunications Commission (Republic of the Philippines 🇵🇭) to report text spams, text message threats, etc.
 
+![fake-sms.jpg](fake-sms.jpg)
+
 This tool allows you to:
 * answer the NTC form through a more user friendly interface (Jotforms)
 * privately configure an email sending application that sends your complaint to the [NTC](https://ntc.gov.ph/).
