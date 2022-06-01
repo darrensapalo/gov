@@ -1,4 +1,4 @@
-module github.com/darrensapalo/gov
+module github.com/darrensapalo/gov/ntc
 
 go 1.18
 
