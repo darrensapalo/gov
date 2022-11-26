@@ -82,10 +82,6 @@ func send(body string) {
 			Filepath: "./ntc-form.pdf",
 		},
 		Attachment{
-			Filename: "diff.png",
-			Filepath: "./diff.png",
-		},
-		Attachment{
 			Filename: "govt-id-one.png",
 			Filepath: "./govt-id-one.png",
 		},
